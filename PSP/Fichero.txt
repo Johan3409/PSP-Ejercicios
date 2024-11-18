@@ -1,0 +1,5 @@
+Señal SIGNINT recibida a las:  12:20:09
+Señal SIGNINT recibida a las:  12:20:44
+Señal SIGNINT recibida a las:  12:20:44
+Señal SIGNINT recibida a las:  12:20:45
+Señal SIGNINT recibida a las:  12:20:46
